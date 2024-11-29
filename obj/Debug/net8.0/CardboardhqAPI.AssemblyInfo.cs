@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CardboardhqAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fa86156ddf98cdab76788918d545d7c69fd970a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CardboardhqAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CardboardhqAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
