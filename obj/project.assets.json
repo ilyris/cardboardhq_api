@@ -3369,19 +3369,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dylan\\.nuget\\packages\\": {}
+    "/Users/dylansieren/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dylan\\Desktop\\cardboardhq_app\\api\\CardboardhqAPI\\CardboardhqAPI.csproj",
+      "projectUniqueName": "/Users/dylansieren/Desktop/cardboardhq_app/cardboardhq_api/CardboardhqAPI.csproj",
       "projectName": "CardboardhqAPI",
-      "projectPath": "C:\\Users\\dylan\\Desktop\\cardboardhq_app\\api\\CardboardhqAPI\\CardboardhqAPI.csproj",
-      "packagesPath": "C:\\Users\\dylan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dylan\\Desktop\\cardboardhq_app\\api\\CardboardhqAPI\\obj\\",
+      "projectPath": "/Users/dylansieren/Desktop/cardboardhq_app/cardboardhq_api/CardboardhqAPI.csproj",
+      "packagesPath": "/Users/dylansieren/.nuget/packages/",
+      "outputPath": "/Users/dylansieren/Desktop/cardboardhq_app/cardboardhq_api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dylan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/dylansieren/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3448,7 +3448,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

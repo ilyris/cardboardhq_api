@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CardboardhqAPI;
 
@@ -24,9 +25,7 @@ public partial class Printing
     public char? Rarity { get; set; }
 
     public string? Artist { get; set; }
-
     public string? ArtVariation { get; set; }
-
     public string? FlavorText { get; set; }
 
     public string? FlavorTextPlain { get; set; }
@@ -42,7 +41,6 @@ public partial class Printing
     public bool? IsFront { get; set; }
 
     public string? OtherFaceUniqueId { get; set; }
-
     public bool? IsDfc { get; set; }
 
     public virtual Card? CardUnique { get; set; }
